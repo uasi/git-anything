@@ -1,0 +1,2 @@
+#!/bin/sh
+exec update_dyld_shared_cache "$*"

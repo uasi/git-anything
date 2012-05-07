@@ -1,0 +1,2 @@
+#!/bin/sh
+exec prl_perf_ctl "$*"

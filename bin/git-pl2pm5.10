@@ -1,0 +1,2 @@
+#!/bin/sh
+exec pl2pm5.10 "$*"

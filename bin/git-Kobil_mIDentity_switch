@@ -1,0 +1,2 @@
+#!/bin/sh
+exec Kobil_mIDentity_switch "$*"

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ip2cc5.12 "$*"

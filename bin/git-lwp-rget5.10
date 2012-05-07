@@ -1,0 +1,2 @@
+#!/bin/sh
+exec lwp-rget5.10 "$*"

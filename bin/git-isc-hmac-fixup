@@ -1,0 +1,2 @@
+#!/bin/sh
+exec isc-hmac-fixup "$*"

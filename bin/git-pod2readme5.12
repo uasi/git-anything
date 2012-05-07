@@ -1,0 +1,2 @@
+#!/bin/sh
+exec pod2readme5.12 "$*"

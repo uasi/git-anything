@@ -1,0 +1,2 @@
+#!/bin/sh
+exec rcs2log "$*"

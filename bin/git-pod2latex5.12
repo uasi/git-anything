@@ -1,0 +1,2 @@
+#!/bin/sh
+exec pod2latex5.12 "$*"

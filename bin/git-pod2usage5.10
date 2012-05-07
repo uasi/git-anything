@@ -1,0 +1,2 @@
+#!/bin/sh
+exec pod2usage5.10 "$*"

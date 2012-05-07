@@ -1,0 +1,2 @@
+#!/bin/sh
+exec glueedit5.12 "$*"

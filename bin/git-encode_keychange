@@ -1,0 +1,2 @@
+#!/bin/sh
+exec encode_keychange "$*"

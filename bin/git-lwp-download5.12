@@ -1,0 +1,2 @@
+#!/bin/sh
+exec lwp-download5.12 "$*"

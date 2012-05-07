@@ -1,0 +1,2 @@
+#!/bin/sh
+exec cpanp-run-perl5.10 "$*"

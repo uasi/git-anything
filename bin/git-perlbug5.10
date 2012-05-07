@@ -1,0 +1,2 @@
+#!/bin/sh
+exec perlbug5.10 "$*"

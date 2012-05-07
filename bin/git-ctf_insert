@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ctf_insert "$*"

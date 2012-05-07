@@ -1,0 +1,2 @@
+#!/bin/sh
+exec mib2c-update "$*"

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec shasum5.10 "$*"

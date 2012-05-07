@@ -1,0 +1,2 @@
+#!/bin/sh
+exec nsec3hash "$*"

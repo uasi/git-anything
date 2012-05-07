@@ -1,0 +1,2 @@
+#!/bin/sh
+exec dbiprof5.12 "$*"
